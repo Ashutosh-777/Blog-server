@@ -33,7 +33,7 @@ This is the backend for a blog application built with Node.js and MongoDB. It in
 
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   cd Blog-Server
    ```
 
 2. **Install dependencies:**
